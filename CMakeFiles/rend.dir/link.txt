@@ -1,0 +1,2 @@
+/usr/lib/emscripten/emar qc librend.a CMakeFiles/rend.dir/src/rend/Mesh.cpp.o CMakeFiles/rend.dir/src/rend/RenderTexture.cpp.o CMakeFiles/rend.dir/src/rend/Utilities.cpp.o CMakeFiles/rend.dir/src/rend/Model.cpp.o CMakeFiles/rend.dir/src/rend/Font.cpp.o CMakeFiles/rend.dir/src/rend/Shader.cpp.o CMakeFiles/rend.dir/src/rend/Texture.cpp.o
+/usr/lib/emscripten/emranlib librend.a

@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/sam/Documents/Brambles/build-emscripten/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

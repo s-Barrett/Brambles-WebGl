@@ -1,0 +1,1 @@
+ libBrambles.a librend.a -lSDL2 
